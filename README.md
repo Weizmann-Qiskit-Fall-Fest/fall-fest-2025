@@ -11,40 +11,40 @@ Join us for a full day of **quantum computing workshops, challenges, and collabo
 
 | Item | Info |
 |------|------|
-| **Date** | **TBD, November 2025** |
-| **Time** | 13:00 – 18:00 (approx.) |
+| **Date** | **Monday, 24 November 2025** |
+| **Time** | 09:00 – 21:00 (approx.) |
 | **Location** | Weizmann Institute of Science, Rehovot, Israel |
 | **Audience** | Open to students, researchers, and anyone interested in quantum computing |
 | **Cost** | Free! |
 | **Contact** | wis.quantum.club@weizmann.ac.il |
 | **Discord/Slack** | *Link coming soon* |
+| **Registration**  | *Link coming soon* |
 
 ---
 
-## 🗓 Full-Day Schedule (Tentative)
+## 🗓 Full-Day Hackathon Schedule (Tentative)
 
 | Time | Activity |
 |------|-----------|
-| **09:00 – 09:30** | **Check-in & Breakfast** ☕🥐<br>Grab coffee, pastries, and meet other participants. |
-| **09:30 – 09:45** | **Opening Ceremony** 🎤<br>Welcome remarks from the organizers, IBM Quantum, and Weizmann faculty. |
-| **09:45 – 10:15** | **Keynote Talk #1:** *The Future of Quantum Computing* 🌐<br>Speaker: TBD (IBM Quantum or local professor). |
-| **10:15 – 11:00** | **Workshop 1: Intro to Qiskit & Quantum Circuits** 🧑‍💻<br>Beginner-friendly session to set up Qiskit and run your first circuits. |
-| **11:00 – 11:15** | **Coffee Break** ☕ |
-| **11:15 – 12:00** | **Workshop 2: Quantum Algorithms in Action** ⚛️<br>Hands-on tutorial featuring VQE and Grover’s Algorithm. |
-| **12:00 – 12:30** | **Lightning Talks by Local Researchers** ⚡<br>3 short talks (10 min each) by Weizmann scientists and Israeli quantum startups. |
-| **12:30 – 13:30** | **Lunch Break** 🍕🥗<br>Buffet lunch, networking, and sponsor booths. |
-| **13:30 – 13:45** | **Hackathon Kickoff** 🚀<br>Challenge reveal, rules overview, and team formation. |
-| **13:45 – 16:15** | **Hackathon Sprint #1** 🧑‍🚀<br>Teams work on projects with mentors available for support. |
+| **09:00 – 09:30** | **Check-In & Breakfast** ☕🥐<br>Grab coffee and pastries, meet other participants, and set up laptops. |
+| **09:30 – 10:00** | **Opening Ceremony & Hackathon Kickoff** 🚀<br>Welcome from organizers, IBM Quantum, and Weizmann faculty.<br>Overview of the day's challenges, rules, and judging criteria. |
+| **10:00 – 10:30** | **Team Formation & Challenge Brainstorming** 🤝<br>Find teammates and start planning your project with mentor support. |
+| **10:30 – 11:15** | **Workshop: Qiskit Crash Course** 🧑‍💻<br>Hands-on intro to Qiskit for beginners, plus setup help for teams. |
+| **11:15 – 11:30** | **Coffee Break** ☕ |
+| **11:30 – 13:00** | **Hackathon Sprint #1** 🏃‍♂️<br>Teams begin hacking! Mentors circulate to help troubleshoot and guide. |
+| **13:00 – 13:45** | **Lunch Break** 🍕🥗<br>Refuel and connect with other participants. |
+| **13:45 – 14:15** | **Guest Talk #1: Quantum Startups in Israel** 🌐<br>Speaker: QEDMA or other local startup. Inspiration for your hackathon project. |
+| **14:15 – 16:15** | **Hackathon Sprint #2** 💻<br>Main building session. Mentors available for technical help and project refinement. |
 | **16:15 – 16:30** | **Snack Break** 🍪 |
-| **16:30 – 17:30** | **Guest Talk #2:** *Quantum Computing in Industry* 🏭<br>Speaker: TBD (QEDMA or other industry partner). |
-| **17:30 – 18:45** | **Hackathon Sprint #2** 🔧<br>Final stretch of project building. Mentors help polish demos and presentations. |
-| **18:45 – 19:15** | **Dinner & Kahoot Quiz** 🍝🎲<br>Relax and play a quantum-themed trivia game with prizes. |
-| **19:15 – 20:00** | **Project Presentations** 🖥️<br>Teams give 3-minute demos of their solutions. |
-| **20:00 – 20:30** | **Judging & Deliberation** ⚖️ |
-| **20:30 – 21:00** | **Closing Ceremony & Awards** 🏆<br>Announce winners, distribute prizes, and wrap up the event. |
-| **21:00 – 21:30** | **Networking & Farewell** 🤝<br>Exchange contacts, celebrate, and discuss future collaborations. |
+| **16:30 – 17:00** | **Lightning Talks** ⚡<br>Three 10-minute talks from Weizmann researchers or IBM Quantum reps about cutting-edge research and careers. |
+| **17:00 – 18:15** | **Hackathon Sprint #3: Final Push** 🚨<br>Last chance to polish your demo and prepare presentations. |
+| **18:15 – 19:00** | **Dinner & Fun Break** 🍝🎲<br>Relax with food and a short Kahoot trivia game while judges prepare. |
+| **19:00 – 19:45** | **Project Presentations** 🖥️<br>Each team gives a 3-minute demo of their solution to the judges. |
+| **19:45 – 20:15** | **Judging & Deliberation** ⚖️<br>Judges review projects while participants network. |
+| **20:15 – 20:45** | **Closing Ceremony & Awards** 🏆<br>Celebrate the top teams, share next steps, and wrap up the event. |
+| **20:45 – 21:15** | **Networking & Farewell** 🤝<br>Exchange contacts and discuss collaborations beyond Fall Fest. |
 
-> 📝 *All times are approximate and may shift slightly depending on speaker availability and logistics.*
+> 📝 *Schedule subject to minor adjustments based on speaker availability and number of participants.*
 
 ---
 
@@ -70,20 +70,27 @@ We will host several **hands-on quantum computing workshops** and **challenge tr
 
 ---
 
-## 🏆 Hackathon
+## 🏆 The Hackathon
 
-The event will culminate in a **mini-hackathon** where teams tackle open-ended quantum challenges.
+The **Weizmann Qiskit Fall Fest 2025** is built around a **day-long Qiskit hackathon**.  
+Throughout the day, you’ll work in teams to tackle a surprise quantum computing challenge that will be revealed during the opening ceremony.
 
-- **Teams:** Up to 4 participants  
-- **Submission:** GitHub repo + short README explaining your approach  
-- **Optional:** 3-minute demo video  
-- **Judging criteria:**
-  - Originality & Creativity  
-  - Correctness & Technical Merit  
-  - Clarity of Presentation  
-  - Potential Impact
+- **Teams:** Work solo or form a team of up to 4 participants.  
+- **Goal:** Use Qiskit to design, build, and demo a creative solution to the challenge using real quantum computing concepts.  
+- **Mystery Challenge:** The exact problem will remain **secret until the event begins** to ensure a level playing field.  
+- **Support:** Mentors and Qiskit experts will be available throughout the day to answer questions and help unblock teams.  
+- **Resources:** We’ll provide notebooks, starter code, and learning materials so everyone—from beginners to advanced quantum developers—can contribute.
 
-Prizes will be awarded to top teams! 🎁
+The day is structured to give you **plenty of focused hacking time**, while also featuring inspiring talks, quick workshops, and food breaks to keep the energy high.
+
+At the end of the event, each team will give a **3-minute demo** of their project to our judges.  
+Projects will be evaluated on:
+- Creativity and originality  
+- Technical correctness  
+- Clarity of presentation  
+- Potential impact or usefulness
+
+Prizes will be awarded to the top teams, and all participants will gain valuable experience, new skills, and connections in the quantum computing community.
 
 ---
 
