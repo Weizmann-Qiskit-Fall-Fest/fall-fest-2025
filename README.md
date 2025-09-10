@@ -156,7 +156,7 @@ All event materials and challenge notebooks in this repo are released under the 
 
 We follow the **Qiskit Events Code of Conduct**.
 Please read it carefully before participating:
-[https://qiskit.org/events/code-of-conduct](https://qiskit.org/events/code-of-conduct)
+[Qiskit Code of Conduct](https://github.com/Qiskit/qiskit-metapackage/blob/master/CODE_OF_CONDUCT.md)
 
 By attending, you agree to:
 
@@ -170,10 +170,11 @@ If you witness or experience any violations, report it immediately to the organi
 
 ## 🔗 Links
 
-* [Qiskit](https://qiskit.org/)
+* [Qiskit](https://www.ibm.com/quantum/qiskit)
 * [IBM Quantum](https://www.ibm.com/quantum)
-* [Qiskit Slack Community](https://qisk.it/join-slack)
+* [Qiskit Slack Community](https://airtable.com/appkU8W0NtENifBxX/shrv2nz4kGxpCAsOp)
 * [Qiskit YouTube Channel](https://www.youtube.com/@qiskit)
+* [IBM Quantum Learning](https://quantum.cloud.ibm.com/learning/en)
 
 ---
 
