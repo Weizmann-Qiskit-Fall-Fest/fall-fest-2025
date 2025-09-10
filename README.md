@@ -94,3 +94,69 @@ conda activate qff25
 
 # Install Qiskit and related packages
 pip install qiskit matplotlib numpy jupyter
+```
+---
+
+## 🌍 About Qiskit Fall Fest
+
+Qiskit Fall Fest is a series of events hosted at universities around the world every fall.
+Each event is **organized by students**, supported by IBM Quantum, and designed to **build the next generation of quantum computing talent**.
+
+Learn more: [https://qiskit.org/events/fall-fest](https://qiskit.org/events/fall-fest)
+
+---
+
+## 👥 Organizers
+
+This event is organized by students and researchers at the **Weizmann Institute of Science**, with support from IBM Quantum and the Qiskit community.
+
+* **Lead Organizer:** *Your Name Here*
+* **Team:** *Other organizers here*
+
+> Interested in volunteering or sponsoring?
+> Contact us at [wis.quantum.club@weizmann.ac.il](mailto:wis.quantum.club@weizmann.ac.il)
+
+---
+
+## 🤝 Sponsors & Partners
+
+* IBM Quantum *(official global partner)*
+* Weizmann Institute of Science *(venue & logistics)*
+* QEDMA *(local quantum startup collaborator)*
+* *Add other sponsors here*
+
+---
+
+## 📜 License
+
+All event materials and challenge notebooks in this repo are released under the **MIT License** (see [LICENSE](./LICENSE)).
+
+---
+
+## 🙌 Code of Conduct
+
+We follow the **Qiskit Events Code of Conduct**.
+Please read it carefully before participating:
+[https://qiskit.org/events/code-of-conduct](https://qiskit.org/events/code-of-conduct)
+
+By attending, you agree to:
+
+* Be respectful and inclusive to all participants
+* Avoid harassment of any kind
+* Follow organizer and venue instructions
+
+If you witness or experience any violations, report it immediately to the organizers.
+
+---
+
+## 🔗 Links
+
+* [Qiskit](https://qiskit.org/)
+* [IBM Quantum](https://www.ibm.com/quantum)
+* [Qiskit Slack Community](https://qisk.it/join-slack)
+* [Qiskit YouTube Channel](https://www.youtube.com/@qiskit)
+
+---
+
+© 2025 Weizmann Qiskit Fall Fest.
+Made with ❤️ by the WIS Quantum Club.
