@@ -21,18 +21,30 @@ Join us for a full day of **quantum computing workshops, challenges, and collabo
 
 ---
 
-## 🗓 Schedule (Tentative)
+## 🗓 Full-Day Schedule (Tentative)
 
 | Time | Activity |
 |------|-----------|
-| 13:00 – 13:15 | **Welcome + Opening Remarks** |
-| 13:15 – 14:00 | Workshop: *Intro to Qiskit* |
-| 14:00 – 15:30 | Guided Challenges (Beginner & Intermediate tracks) |
-| 15:30 – 16:00 | Guest Talk: *Speaker TBA* |
-| 16:00 – 17:30 | Advanced Challenges / Hackathon Sprint |
-| 17:30 – 18:00 | Demos, Kahoot, Prizes, Wrap-Up |
+| **09:00 – 09:30** | **Check-in & Breakfast** ☕🥐<br>Grab coffee, pastries, and meet other participants. |
+| **09:30 – 09:45** | **Opening Ceremony** 🎤<br>Welcome remarks from the organizers, IBM Quantum, and Weizmann faculty. |
+| **09:45 – 10:15** | **Keynote Talk #1:** *The Future of Quantum Computing* 🌐<br>Speaker: TBD (IBM Quantum or local professor). |
+| **10:15 – 11:00** | **Workshop 1: Intro to Qiskit & Quantum Circuits** 🧑‍💻<br>Beginner-friendly session to set up Qiskit and run your first circuits. |
+| **11:00 – 11:15** | **Coffee Break** ☕ |
+| **11:15 – 12:00** | **Workshop 2: Quantum Algorithms in Action** ⚛️<br>Hands-on tutorial featuring VQE and Grover’s Algorithm. |
+| **12:00 – 12:30** | **Lightning Talks by Local Researchers** ⚡<br>3 short talks (10 min each) by Weizmann scientists and Israeli quantum startups. |
+| **12:30 – 13:30** | **Lunch Break** 🍕🥗<br>Buffet lunch, networking, and sponsor booths. |
+| **13:30 – 13:45** | **Hackathon Kickoff** 🚀<br>Challenge reveal, rules overview, and team formation. |
+| **13:45 – 16:15** | **Hackathon Sprint #1** 🧑‍🚀<br>Teams work on projects with mentors available for support. |
+| **16:15 – 16:30** | **Snack Break** 🍪 |
+| **16:30 – 17:30** | **Guest Talk #2:** *Quantum Computing in Industry* 🏭<br>Speaker: TBD (QEDMA or other industry partner). |
+| **17:30 – 18:45** | **Hackathon Sprint #2** 🔧<br>Final stretch of project building. Mentors help polish demos and presentations. |
+| **18:45 – 19:15** | **Dinner & Kahoot Quiz** 🍝🎲<br>Relax and play a quantum-themed trivia game with prizes. |
+| **19:15 – 20:00** | **Project Presentations** 🖥️<br>Teams give 3-minute demos of their solutions. |
+| **20:00 – 20:30** | **Judging & Deliberation** ⚖️ |
+| **20:30 – 21:00** | **Closing Ceremony & Awards** 🏆<br>Announce winners, distribute prizes, and wrap up the event. |
+| **21:00 – 21:30** | **Networking & Farewell** 🤝<br>Exchange contacts, celebrate, and discuss future collaborations. |
 
-> 📝 *The final agenda, rooms, and speakers will be announced soon!*
+> 📝 *All times are approximate and may shift slightly depending on speaker availability and logistics.*
 
 ---
 
