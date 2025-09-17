@@ -1,7 +1,9 @@
+<img width="851" height="243" alt="fallfest_logos" src="https://github.com/user-attachments/assets/d776b17f-8525-4633-acab-b8c471d8e35f" />
+
 # 🧑‍🚀 Weizmann Qiskit Fall Fest 2025
 
 Welcome to the **Weizmann Institute of Science Qiskit Fall Fest 2025**!  
-Join us for a full day of **quantum computing workshops, challenges, and collaboration**, hosted by students at Weizmann and supported by [IBM Quantum](https://www.ibm.com/quantum) and the [Qiskit community](https://qiskit.org/).
+Join us for a **full day of quantum computing challenges, collaboration, and fun**, hosted by students at Weizmann and supported by [IBM Quantum](https://www.ibm.com/quantum) and the [Weizmann Institute Center for Quantum Science and Technology](https://centers.weizmann.ac.il/quantum-science-technology/). This year we are celebrating 100 years of quantum science!
 
 > **Qiskit Fall Fest** is a global series of events where students around the world learn quantum computing, build projects, and connect with the global quantum community.
 
@@ -12,113 +14,58 @@ Join us for a full day of **quantum computing workshops, challenges, and collabo
 | Item | Info |
 |------|------|
 | **Date** | **Monday, 24 November 2025** |
-| **Time** | 09:00 – 21:00 (approx.) |
+| **Time** | Approx. 09:00 – 21:00 |
 | **Location** | Weizmann Institute of Science, Rehovot, Israel |
-| **Audience** | Open to students, researchers, and anyone interested in quantum computing |
-| **Cost** | Free! |
-| **Contact** | wis.quantum.club@weizmann.ac.il |
-| **Discord/Slack** | *Link coming soon* |
+| **Audience** | Students, researchers, and anyone interested in quantum computing |
+| **Cost** | Free |
+| **Contact** | jonah.sobel@weizmann.ac.il |
 | **Registration**  | *Link coming soon* |
 
 ---
 
-## 🗓 Full-Day Hackathon Schedule (Tentative)
+## 🗓 Tentative Schedule
+
+The event will center around a **day-long hackathon**, with plenty of time for focused team work.  
+Throughout the day, there will also be short **workshops, guest talks**, and **food breaks** to keep the energy high.
 
 | Time | Activity |
 |------|-----------|
-| **09:00 – 09:30** | **Check-In & Breakfast** ☕🥐<br>Grab coffee and pastries, meet other participants, and set up laptops. |
-| **09:30 – 10:00** | **Opening Ceremony & Hackathon Kickoff** 🚀<br>Welcome from organizers, IBM Quantum, and Weizmann faculty.<br>Overview of the day's challenges, rules, and judging criteria. |
-| **10:00 – 10:30** | **Team Formation & Challenge Brainstorming** 🤝<br>Find teammates and start planning your project with mentor support. |
-| **10:30 – 11:15** | **Workshop: Qiskit Crash Course** 🧑‍💻<br>Hands-on intro to Qiskit for beginners, plus setup help for teams. |
-| **11:15 – 11:30** | **Coffee Break** ☕ |
-| **11:30 – 13:00** | **Hackathon Sprint #1** 🏃‍♂️<br>Teams begin hacking! Mentors circulate to help troubleshoot and guide. |
-| **13:00 – 13:45** | **Lunch Break** 🍕🥗<br>Refuel and connect with other participants. |
-| **13:45 – 14:15** | **Guest Talk #1: Quantum Startups in Israel** 🌐<br>Speaker: QEDMA or other local startup. Inspiration for your hackathon project. |
-| **14:15 – 16:15** | **Hackathon Sprint #2** 💻<br>Main building session. Mentors available for technical help and project refinement. |
-| **16:15 – 16:30** | **Snack Break** 🍪 |
-| **16:30 – 17:00** | **Lightning Talks** ⚡<br>Three 10-minute talks from Weizmann researchers or IBM Quantum reps about cutting-edge research and careers. |
-| **17:00 – 18:15** | **Hackathon Sprint #3: Final Push** 🚨<br>Last chance to polish your demo and prepare presentations. |
-| **18:15 – 19:00** | **Dinner & Fun Break** 🍝🎲<br>Relax with food and a short Kahoot trivia game while judges prepare. |
-| **19:00 – 19:45** | **Project Presentations** 🖥️<br>Each team gives a 3-minute demo of their solution to the judges. |
-| **19:45 – 20:15** | **Judging & Deliberation** ⚖️<br>Judges review projects while participants network. |
-| **20:15 – 20:45** | **Closing Ceremony & Awards** 🏆<br>Celebrate the top teams, share next steps, and wrap up the event. |
-| **20:45 – 21:15** | **Networking & Farewell** 🤝<br>Exchange contacts and discuss collaborations beyond Fall Fest. |
+| Morning | Check-in, breakfast, and opening kickoff |
+| Daytime | Hackathon hacking sessions, with short workshops and talks interspersed |
+| Evening | Dinner, final presentations, judging, and awards |
 
-> 📝 *Schedule subject to minor adjustments based on speaker availability and number of participants.*
-
----
-
-## 💻 Workshops & Challenges
-
-We will host several **hands-on quantum computing workshops** and **challenge tracks** for all skill levels:
-
-### **Beginner**
-- Quantum computing basics  
-- Running your first quantum circuit in Qiskit  
-- Measurement and noise simulation
-
-### **Intermediate**
-- Variational Quantum Eigensolver (VQE)  
-- Error mitigation and noise-aware circuits  
-- Quantum optimization tasks
-
-### **Advanced (optional)**
-- Pulse-level control in Qiskit  
-- Using provider-specific tools like **QEDMA's QESEM** for enhanced simulations
-
-> **Goal:** By the end of the day, you’ll have **run a real quantum circuit**, **solved a challenge**, and connected with other quantum enthusiasts.
+> 📝 *The exact schedule and speaker details will be announced closer to the event.*
 
 ---
 
 ## 🏆 The Hackathon
 
-The **Weizmann Qiskit Fall Fest 2025** is built around a **day-long Qiskit hackathon**.  
-Throughout the day, you’ll work in teams to tackle a surprise quantum computing challenge that will be revealed during the opening ceremony.
+The **Weizmann Qiskit Fall Fest 2025** is built around a **mystery quantum computing challenge**.  
+You’ll work in teams to design, build, and demo a solution using **Qiskit** and real quantum computing concepts.
 
-- **Teams:** Work solo or form a team of up to 4 participants.  
-- **Goal:** Use Qiskit to design, build, and demo a creative solution to the challenge using real quantum computing concepts.  
-- **Mystery Challenge:** The exact problem will remain **secret until the event begins** to ensure a level playing field.  
-- **Support:** Mentors and Qiskit experts will be available throughout the day to answer questions and help unblock teams.  
-- **Resources:** We’ll provide notebooks, starter code, and learning materials so everyone—from beginners to advanced quantum developers—can contribute.
+- **Teams:** Solo or groups of up to 4  
+- **Challenge Reveal:** Announced at the opening ceremony  
+- **Support:** Mentors will be available throughout the day to answer questions and help guide teams  
+- **Resources:** Starter code and learning materials provided so participants of all levels can take part
 
-The day is structured to give you **plenty of focused hacking time**, while also featuring inspiring talks, quick workshops, and food breaks to keep the energy high.
-
-At the end of the event, each team will give a **3-minute demo** of their project to our judges.  
-Projects will be evaluated on:
-- Creativity and originality  
-- Technical correctness  
-- Clarity of presentation  
-- Potential impact or usefulness
-
-Prizes will be awarded to the top teams, and all participants will gain valuable experience, new skills, and connections in the quantum computing community.
+At the end of the day, teams will present their work in a **short demo session**.  
+Projects will be evaluated on creativity, technical correctness, and clarity of presentation, with prizes for the top teams!
 
 ---
 
-## 📝 Registration
+## 💻 Workshops & Talks
 
-Registration will open soon!  
-- Sign-up form: *Link coming soon*  
-- All participants must agree to the [Qiskit Events Code of Conduct](https://qiskit.org/events/code-of-conduct).
+In addition to the hackathon, there will be **mini-workshops** and **lightning talks** throughout the day.  
+These will help participants:
+- Learn the basics of quantum computing and Qiskit
+- Explore advanced topics like quantum optimization and error mitigation
+- Hear from local researchers and industry professionals about cutting-edge quantum research
 
----
-
-## 🛠 Local Setup
-
-If you want to prepare your environment in advance:
-
-```bash
-# Create a conda environment
-conda create -n qff25 python=3.11 -y
-conda activate qff25
-
-# Install Qiskit and related packages
-pip install qiskit matplotlib numpy jupyter
-```
 ---
 
 ## 🌍 About Qiskit Fall Fest
 
-Qiskit Fall Fest is a series of events hosted at universities around the world every fall.
+Qiskit Fall Fest is a global series of student-led quantum computing events hosted every fall.  
 Each event is **organized by students**, supported by IBM Quantum, and designed to **build the next generation of quantum computing talent**.
 
 Learn more: [https://qiskit.org/events/fall-fest](https://qiskit.org/events/fall-fest)
@@ -127,22 +74,17 @@ Learn more: [https://qiskit.org/events/fall-fest](https://qiskit.org/events/fall
 
 ## 👥 Organizers
 
-This event is organized by students and researchers at the **Weizmann Institute of Science**, with support from IBM Quantum and the Qiskit community.
+Organized by students and researchers at the **Weizmann Institute of Science**, with support from IBM Quantum and the Weizmann Institute Center for Quantum Science and Technology.
 
-* **Lead Organizer:** *Your Name Here*
-* **Team:** *Other organizers here*
-
-> Interested in volunteering or sponsoring?
-> Contact us at [wis.quantum.club@weizmann.ac.il](mailto:wis.quantum.club@weizmann.ac.il)
+> Interested in volunteering or sponsoring?  
+> Contact us at [jonah.sobel@weizmann.ac.il](mailto:jonah.sobel@weizmann.ac.il)
 
 ---
 
 ## 🤝 Sponsors & Partners
 
-* IBM Quantum *(official global partner)*
-* Weizmann Institute of Science *(venue & logistics)*
-* QEDMA *(local quantum startup collaborator)*
-* *Add other sponsors here*
+* IBM Quantum  
+* Weizmann Institute Center for Quantum Science and Technology  
 
 ---
 
@@ -154,29 +96,19 @@ All event materials and challenge notebooks in this repo are released under the 
 
 ## 🙌 Code of Conduct
 
-We follow the **Qiskit Events Code of Conduct**.
-Please read it carefully before participating:
+We follow the **Qiskit Events Code of Conduct**:  
 [Qiskit Code of Conduct](https://github.com/Qiskit/qiskit-metapackage/blob/master/CODE_OF_CONDUCT.md)
 
 By attending, you agree to:
-
-* Be respectful and inclusive to all participants
-* Avoid harassment of any kind
-* Follow organizer and venue instructions
-
-If you witness or experience any violations, report it immediately to the organizers.
-
----
-
-## 🔗 Links
-
-* [Qiskit](https://www.ibm.com/quantum/qiskit)
-* [IBM Quantum](https://www.ibm.com/quantum)
-* [Qiskit Slack Community](https://airtable.com/appkU8W0NtENifBxX/shrv2nz4kGxpCAsOp)
-* [Qiskit YouTube Channel](https://www.youtube.com/@qiskit)
-* [IBM Quantum Learning](https://quantum.cloud.ibm.com/learning/en)
+- Be respectful and inclusive
+- Avoid harassment of any kind
+- Follow organizer and venue instructions
 
 ---
 
 © 2025 Weizmann Qiskit Fall Fest.
 Made with ❤️ by the WIS Quantum Club.
+
+
+ <img width="2944" height="1880" alt="Full_Illustration" src="https://github.com/user-attachments/assets/9f242a6e-d512-4e71-915e-72d9cabbc890" />
+
