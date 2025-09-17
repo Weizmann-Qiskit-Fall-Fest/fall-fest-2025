@@ -19,7 +19,7 @@ Join us for a **full day of quantum computing challenges, collaboration, and fun
 | **Audience** | Students, researchers, and anyone interested in quantum computing |
 | **Cost** | Free |
 | **Contact** | jonah.sobel@weizmann.ac.il |
-| **Registration**  | *Link coming soon* |
+| **Registration**  | [Sign-up Here!](https://forms.gle/ZYxg7YCYNRkzVVqW7) |
 
 ---
 
