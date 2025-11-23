@@ -13,7 +13,7 @@ Join us for a **an exciting two-part event full of of quantum computing challeng
 
 **Part I: Qiskit Orientation Workshop**
 
-This event will include an introduction to quantum copmuting, and qiskit, with speakers from the Weizmann Institute of Science and IBM Quantum.
+Including an introduction to quantum copmuting, and qiskit, with speakers from the Weizmann Institute of Science and IBM Quantum.
 
 | Item | Info |
 |------|------|
