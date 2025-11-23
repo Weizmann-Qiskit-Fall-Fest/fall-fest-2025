@@ -3,7 +3,7 @@
 # 🧑‍🚀 Weizmann Qiskit Fall Fest 2025
 
 Welcome to the **Qiskit Fall Fest 2025 @ Weizmann Institute of Science**!  
-Join us for a **an exciting two-part event full of of quantum computing challenges, collaboration, and fun**, hosted by students at Weizmann and supported by [IBM Quantum](https://www.ibm.com/quantum) and the [Weizmann Institute Center for Quantum Science and Technology](https://centers.weizmann.ac.il/quantum-science-technology/). This year we are celebrating 100 years of quantum science!
+Join us for **an exciting two-part event full of of quantum computing challenges, collaboration, and fun**, hosted by students at Weizmann and supported by [IBM Quantum](https://www.ibm.com/quantum) and the [Weizmann Institute Center for Quantum Science and Technology](https://centers.weizmann.ac.il/quantum-science-technology/). This year we are celebrating 100 years of quantum science!
 
 > **Qiskit Fall Fest** is a global series of events where students around the world learn quantum computing, build projects, and connect with the global quantum community.
 
