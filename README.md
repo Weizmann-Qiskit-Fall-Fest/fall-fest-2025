@@ -2,8 +2,8 @@
 
 # 🧑‍🚀 Weizmann Qiskit Fall Fest 2025
 
-Welcome to the **Weizmann Institute of Science Qiskit Fall Fest 2025**!  
-Join us for a **full day of quantum computing challenges, collaboration, and fun**, hosted by students at Weizmann and supported by [IBM Quantum](https://www.ibm.com/quantum) and the [Weizmann Institute Center for Quantum Science and Technology](https://centers.weizmann.ac.il/quantum-science-technology/). This year we are celebrating 100 years of quantum science!
+Welcome to the **Qiskit Fall Fest 2025 @ Weizmann Institute of Science**!  
+Join us for a **an exciting two-part event full of of quantum computing challenges, collaboration, and fun**, hosted by students at Weizmann and supported by [IBM Quantum](https://www.ibm.com/quantum) and the [Weizmann Institute Center for Quantum Science and Technology](https://centers.weizmann.ac.il/quantum-science-technology/). This year we are celebrating 100 years of quantum science!
 
 > **Qiskit Fall Fest** is a global series of events where students around the world learn quantum computing, build projects, and connect with the global quantum community.
 
@@ -11,30 +11,35 @@ Join us for a **full day of quantum computing challenges, collaboration, and fun
 
 ## 📍 Event Details
 
+**Part I: Qiskit Orientation Workshop**
+
+This event will include an introduction to quantum copmuting, and qiskit, with speakers from the Weizmann Institute of Science and IBM Quantum.
+
 | Item | Info |
 |------|------|
 | **Date** | **Monday, 24 November 2025** |
-| **Time** | Approx. 09:00 – 21:00 |
+| **Time** | 17:00 – 20:00 |
 | **Location** | Weizmann Institute of Science, Rehovot, Israel |
 | **Audience** | Students, researchers, and anyone interested in quantum computing |
 | **Cost** | Free |
 | **Contact** | jonah.sobel@weizmann.ac.il |
-| **Registration**  | [Sign-up Here!](https://forms.gle/ZYxg7YCYNRkzVVqW7) |
+| **Registration**  | Closed |
 
----
-
-## 🗓 Tentative Schedule
+**Part II: Qiskit Hackathon**
 
 The event will center around a **day-long hackathon**, with plenty of time for focused team work.  
 Throughout the day, there will also be short **workshops, guest talks**, and **food breaks** to keep the energy high.
 
-| Time | Activity |
-|------|-----------|
-| Morning | Check-in, breakfast, and opening kickoff |
-| Daytime | Hackathon hacking sessions, with short workshops and talks interspersed |
-| Evening | Dinner, final presentations, judging, and awards |
+| Item | Info |
+|------|------|
+| **Date** | **Sunday, 21 December 2025** |
+| **Time** | 9:00 – 19:30 |
+| **Location** | Weizmann Institute of Science, Rehovot, Israel |
+| **Audience** | Students, researchers, and anyone interested in quantum computing |
+| **Cost** | Free |
+| **Contact** | jonah.sobel@weizmann.ac.il |
+| **Registration**  | Closed |
 
-> 📝 *The exact schedule and speaker details will be announced closer to the event.*
 
 ---
 
