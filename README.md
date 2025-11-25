@@ -48,7 +48,7 @@ Throughout the day, there will also be short **workshops, guest talks**, and **f
 The **Weizmann Qiskit Fall Fest 2025** is built around a **mystery quantum computing challenge**.  
 You’ll work in teams to design, build, and demo a solution using **Qiskit** and real quantum computing concepts.
 
-- **Teams:** Solo or groups of up to 4  
+- **Teams:** Solo or groups of up to 5  
 - **Challenge Reveal:** Announced at the opening ceremony  
 - **Support:** Mentors will be available throughout the day to answer questions and help guide teams  
 - **Resources:** Starter code and learning materials provided so participants of all levels can take part
